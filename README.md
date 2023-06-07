@@ -5,37 +5,37 @@ MachineLearningProject
 
   Heart attack prediction system accomplish two objective.<br>
 	
-    1. Discover the relationship between heart disease causative factors and heart attacks<br>
-    2. Employe 9 models to find a solution to build a highly accurate heart disease prediction model<br>
+    1. Discover the relationship between heart disease causative factors and heart attacks
+    2. Employe 9 models to find a solution to build a highly accurate heart disease prediction model
 
   Process includes:<br>
 	
-    Preprocessing<br>
-    EDA<br>
-    Prediction<br>
-    Evaluation<br>
+    Preprocessing
+    EDA
+    Prediction
+    Evaluation
 
 # Music DataSet Analysis
   Spotify.Rmd - This is a music-related dataset. 
   
   Music cluster system accomplish two objective:<br>
 	
-    1. Discover the relationship between several factors and find partten of music data.<br>
-    2. Provide a Music profile through performer by clustering each performer based on their data.<br>
+    1. Discover the relationship between several factors and find partten of music data.
+    2. Provide a Music profile through performer by clustering each performer based on their data.
     
   Process includes:<br>
 	
-    Preprocessing<br>
-    EDA<br>
-    Cluster using K-Means<br>
-    Evaluation<br>
+    Preprocessing
+    EDA
+    Cluster using K-Means
+    Evaluation
 
 # Suicide Dataset Analysis
 
   Suicide cluster system accomplish two objective.<br>
 	
-    1. Analyse the relation between internet user percentage and suicide total death trend among countries;<br>
-    2. Provide a suicide profile of countries through scoring and clustering each country based on their internet user and suicide data.<br>
+    1. Analyse the relation between internet user percentage and suicide total death trend among countries;
+    2. Provide a suicide profile of countries through scoring and clustering each country based on their internet user and suicide data.
   
   Process includes:<br>
 	
